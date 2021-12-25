@@ -5,4 +5,3 @@
 ·mp3 is a huge project, which implements a linux OS, containing 5 parts and requires teamwork. No extra functionality included.<br/>
 ·Thanks to my teammates' hardwork. I'm responsible for parts of keyboard IO and scheduling.<br/>
 ·Note that there's still some bugs in mp2.<br/>
-·Now only Zips are available, direct data, texts and codes will be uploaded soon
