@@ -7,7 +7,7 @@
 * Thanks to whole team's hardwork. Note that there's still some bugs in mp2.
 ## Academic Integrity
 Please review the University of Illinois Student Code before starting, particularly all subsections of Article 1, Part 4 Academic Integrity and Procedure [here](https://studentcode.illinois.edu/article1/part4/1-401/).<br/>
-### 1‑402 Academic Integrity Infractions
+### § 1‑402 Academic Integrity Infractions
 
 1. Cheating. No student shall use or attempt to use in any academic exercise materials, information, study aids, or electronic data that the student knows or should know is unauthorized. Instructors are strongly encouraged to make in advance a clear statement of their policies and procedures concerning the use of shared study aids, examination files, and related materials and forms of assistance. Such advance notification is especially important in the case of take-home examinations. During any examination, students should assume that external assistance (e.g., books, notes, calculators, and communications with others) is prohibited unless specifically authorized by the Instructor. A violation of this section includes but is not limited to:
 
