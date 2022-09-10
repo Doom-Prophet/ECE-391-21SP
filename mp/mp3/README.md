@@ -2,7 +2,7 @@
 * This is a huge project, which implements a Linux-like operating system kernel that supports almost all basic functionalities of a
 Linux kernel, including scheduling, interrupts, system calls, exceptions, virtual memory and a read-only file system, containing 5 parts and requires teamwork.<br/>
 * This kernal supports a range of devices including keyboard, mouse, sound card, serial port, RTC, PIT, network card and VGA.
-* Thanks for the hard work from my wonder teammates: [Yize Chen](https://github.com/Adam-2000), Tianhao Huang and Shengjian Chen.
+* Thanks for the hard work from my wonderful teammates: [Yize Chen](https://github.com/Adam-2000), Tianhao Huang and Shengjian Chen.
 ## Academic Integrity
 Please review the University of Illinois Student Code before starting, particularly all subsections of Article 1, Part 4 Academic Integrity and Procedure [here](https://studentcode.illinois.edu/article1/part4/1-401/).<br/>
 ### § 1‑402 Academic Integrity Infractions
