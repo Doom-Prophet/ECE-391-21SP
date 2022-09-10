@@ -1,6 +1,7 @@
-# ECE391 MP3 
-* This is a huge project, which implements a Linux-like kernel, containing 5 parts and requires teamwork.<br/>
-* Thanks to whole team's hardwork.
+# ECE391 MP3 - Unix-like Operating System Kernel
+* This is a huge project, which implements a Linux-like operating system kernel that supports almost all basic functionalities of a
+Linux kernel, including scheduling, interrupts, system calls, exceptions, virtual memory and a read-only file system, containing 5 parts and requires teamwork.<br/>
+* This kernal supports a range of devices including keyboard, mouse, sound card, serial port, RTC, PIT, network card and VGA.
 ## Academic Integrity
 Please review the University of Illinois Student Code before starting, particularly all subsections of Article 1, Part 4 Academic Integrity and Procedure [here](https://studentcode.illinois.edu/article1/part4/1-401/).<br/>
 ### § 1‑402 Academic Integrity Infractions
